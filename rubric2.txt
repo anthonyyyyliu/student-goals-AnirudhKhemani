@@ -1,6 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
+Name: Anirudh Khemani
+Period: 1
+School year: 2018 - 2019
 
 
 Directions:
@@ -16,12 +16,17 @@ Directions:
 
 BEGIN WRITING HERE
 
-Goal 2: COPY AND PASTE GOAL
+Goal 2: To increase my participation and grow my contribution to the class this year, I aim to post on Piazza whenever applicable. To make this more measurable, I will post at least once a unit. Further, my post should be a valid question, help me, and help another person.
+
 
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4: I posted on Piazza 100% of the time and my posts were always valid questions. They helped me better understand something. I can confirm with another classmate that my post helped them.
+
+
+- 3: I posted on Piazza over 60% of the time and my posts were always valid questions. They helped me better understand something. I can confirm with another classmate that my post helped them.
+
+- 2: I posted on Piazza 30-60% of the time and my posts were always valid and helpful questions.
+
+- 1: I posted on Piazza less than 30% of the time and/or my posts were usually unhelpful or invalid questions.
 
 

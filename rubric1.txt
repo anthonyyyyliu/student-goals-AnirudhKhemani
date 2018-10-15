@@ -1,6 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
+Name: Anirudh Khemani	
+Period: 1
+School year: 2018 - 2019
 
 
 Directions:
@@ -16,12 +16,15 @@ Directions:
 
 BEGIN WRITING HERE
 
-Goal 1: COPY AND PASTE GOAL
+Goal 1: Through this school year I aim to better manage my time and spread out my work. In order to implement this, I will complete the portion of assigned Practice-it problems pertinent to any given week's lessons by the following week. Additionally, I would like to have any questions I have on that week's lessons answered by the following week.
 
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4: Without exceptions, I achieved my goal. I tackled my goal with persistence and strove to make it habitual. For every topic, I took some time out every week to complete the Practice-it problems. Furthermore, I took initiative to look deeper into the topic. For example, I could do extra exercises or get questions answered by Mr. Wang or another knowledgable source.
+
+- 3: With a few (reasonable) exceptions, I achieved my goal. Additional to completing Practice-it problems every week almost without fail, I may have looked deeper into concepts taught and asked extra questions, if I had the time and energy. I was successful greater than 60% of the time.
+
+- 2: I attempted to achieve my goal (for example, I made a note to complete it), but I was inconsistent in my success and my efforts may fade. I may be successful 30-60% of the time
+
+- 1: I recognized the positive effects of achieving my goal. I was successful less than 30% of the time.
 
 
